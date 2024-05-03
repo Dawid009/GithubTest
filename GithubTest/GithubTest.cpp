@@ -11,6 +11,10 @@ int main()
     if(1==1){
         cout << endl;
     }
+
+    if(2+2==5){
+        int i = 4;
+    }
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
